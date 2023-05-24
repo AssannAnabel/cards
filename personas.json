@@ -1,0 +1,77 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "edad": 21,
+        "sexo": "masculino",
+        "email": "juan_perez@gmail.com"
+    },   {
+        "nombre": "Karina",
+        "apellido": "Gonzalez",
+        "edad": 35,
+        "sexo": "femenino",
+        "email": "karina_gonzalez@gmail.com"
+    }  ,   {
+        "nombre": "Luz",
+        "apellido": "Lopez",
+        "edad": 19,
+        "sexo": "femenino",
+        "email": "luz_lopez@gmail.com"
+    }  ,   {
+        "nombre": "Marcos",
+        "apellido": "Villalba",
+        "edad": 47,
+        "sexo": "masculino",
+        "email": "marcos_villalba@gmail.com"
+    }  ,   {
+        "nombre": "Javier",
+        "apellido": "Lopez",
+        "edad": 30,
+        "sexo": "masculino",
+        "email": "javi@gmail.com"
+    }  ,
+    {
+        "nombre": "Mariano",
+        "apellido": "camisia",
+        "edad": 45,
+        "sexo": "masculino",
+        "email": "mariano-c@gmail.com"
+    } ,   {
+        "nombre": "Mariela",
+        "apellido": "cipre",
+        "edad": 24,
+        "sexo": "femenino",
+        "email": "marie@gmail.com"
+    } ,   {
+        "nombre": "francisco",
+        "apellido": "carabajal",
+        "edad": 28,
+        "sexo": "masculino",
+        "email": "fede-carabajal@gmail.com"
+    } ,   {
+        "nombre": "sandra",
+        "apellido": "quinoti",
+        "edad": 63,
+        "sexo": "femenino",
+        "email": "sandrita@gmail.com"
+    }  ,  {
+        "nombre": "milena",
+        "apellido": "conde",
+        "edad": 39,
+        "sexo": "femenino",
+        "email": "mile-conde@gmail.com"
+    }  ,  {
+        "nombre": "lucia",
+        "apellido": "velazquez",
+        "edad": 41,
+        "sexo": "femenino",
+        "email": "javi@gmail.com"
+    } ,
+    {
+        "nombre": "diego",
+        "apellido": "lopoldo",
+        "edad": 21,
+        "sexo": "masculino",
+        "email": "lopol-die@gmail.com"
+    }  
+    ]
